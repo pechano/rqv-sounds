@@ -2,8 +2,6 @@ TODO
 
 1.
 Find mappestruktur som fungerer. Den fil som installeres er en .s2z fil i /Heroes of Newerth/game/ mappen.
-Roden bliver til rqv.s2z. Denne fil kommer til at indeholde alle modificerede lydfiler.
-
 
 2.
 Lav komprimeringsscript der kan lave alle mapper til korrekt .s2z med én kommando.
