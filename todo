@@ -1,7 +1,7 @@
 TODO
 
 1.
-Find mappestruktur som fungerer. Den mappe der installeres på computeren er /heroes/ derfor skal alle ændringer foretages i undermappen til den specifikke hero.
+Find mappestruktur som fungerer. Den fil som installeres er en .s2z fil i /Heroes of Newerth/game/ mappen.
 
 2.
 Lav komprimeringsscript der kan lave alle mapper til korrekt .s2z med én kommando.
