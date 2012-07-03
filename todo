@@ -1,0 +1,10 @@
+TODO
+
+1.
+Find mappestruktur som fungerer. Den mappe der installeres på computeren er /heroes/ derfor skal alle ændringer foretages i undermappen til den specifikke hero.
+
+2.
+Lav komprimeringsscript der kan lave alle mapper til korrekt .s2z med én kommando.
+
+3.
+Eventuelt et installerscript til at lave en .exe installer.
